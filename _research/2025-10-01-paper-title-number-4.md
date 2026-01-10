@@ -1,5 +1,5 @@
 ---
-title: "One News, Two Markets:LLM-Derived Sentiment and Trading Volume"
+title: "One News, Two Markets: LLM-Derived Sentiment and Trading Volume"
 collection: research
 category: working_paper
 permalink: /research/2025-10-01-paper-title-number-4
