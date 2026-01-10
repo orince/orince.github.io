@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="text-align: center;">
   <div style="position: relative; display: inline-block;">
-    < img src="/images/birdtree.jpg" alt="Profile Image" width="351" height="400" style="display: block;" />
+    < img src="../images/birdtree.jpg" alt="Profile Image" width="351" height="400" style="display: block;" />
   </div>
   <div style="text-align: right; font-style: italic; color: #d3d3d3; font-size: 14px; margin-top: 5px;">
     <!-- <br />
