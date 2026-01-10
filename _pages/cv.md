@@ -18,6 +18,7 @@ redirect_from:
   </div>
 </div>
 
+
 Curriculum Vitae : [CV](../assets/CV_Resume.pdf)
 
 Education:
