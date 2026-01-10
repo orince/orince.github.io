@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /researchs/
+permalink: /research/
 author_profile: true
 ---
 {% if site.author.googlescholar %}
@@ -9,14 +9,16 @@ author_profile: true
 <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.publication_category %}
 {% for category in site.publication_category %}
 
 <section class="publication-category">
   <h2>{{ category[1].title }}</h2>
   <hr />
-  {% assign posts = site.researchs | default: [] | where: "category", category[0] | sort: "date" | reverse %}
+  {% assign posts = site.research | where: "category", category[0] | sort: "date" | reverse %}
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
 </section>
 {% endfor %}
+{% endif %}
