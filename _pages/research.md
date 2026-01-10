@@ -14,7 +14,7 @@ author_profile: true
 <section class="publication-category">
   <h2>{{ category[1].title }}</h2>
   <hr />
-  {% assign posts = site.researchs | where: "category", category[0] | sort: "date" | reverse %}
+  {% assign posts = site.researchs | default: [] | where: "category", category[0] | sort: "date" | reverse %}
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
