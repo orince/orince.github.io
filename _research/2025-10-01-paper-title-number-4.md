@@ -8,7 +8,6 @@ Leveraging generative AI through a Large Language Model (DeepSeek) to extract gr
 A one-standard-deviation increase in news magnitude raises next-day volume shocks by 17\% for bonds and 29\% for equities. We document a significant cross-market asymmetry: bond-specific shocks trigger immediate but transient equity volume, while equity-specific shocks induce persistent activity in the less liquid bond market. 
 We rationalize these findings through a multi-asset microstructure framework that provides a structural explanation for the observed asymmetric information flow. 
 This study positions LLM-derived sentiment intensity as a novel, text-based measure of market-specific information risk, bridging textual analysis with market microstructure theory.'
-# date: '20-10-01'
 venue: '(Under Review)'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5994158'
