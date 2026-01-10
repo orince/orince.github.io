@@ -1,0 +1,13 @@
+---
+title: "Fast Conformal Prediction using Conditional Interquantile Intervals "
+collection: research
+category: conferences
+permalink: /research/2026-10-01-paper-title-number-2
+excerpt: 'We introduce Conformal Interquantile Regression (CIR), a conformal regression method that efficiently constructs near-minimal prediction intervals with guaranteed coverage. CIR leverages black-box machine learning models to estimate outcome distributions through interquantile ranges, transforming these estimates into compact prediction intervals while achieving approximate conditional coverage. We further propose CIR+ (Conditional Interquantile Regression with More Comparison), which enhances CIR by incorporating a width-based selection rule for interquantile intervals. This refinement yields narrower prediction intervals while maintaining comparable coverage, though at the cost of slightly increased computational time.
+Both methods address key limitations of existing distributional conformal prediction approaches: they handle skewed distributions more effectively than Conformalized Quantile Regression, and they achieve substantially higher computational efficiency than Conformal Histogram Regression by eliminating the need for histogram construction. Extensive experiments on synthetic and real-world datasets demonstrate that our methods optimally balance predictive accuracy and computational efficiency compared to existing approaches.'
+#date: '20-10-01'
+venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (2026)'
+#slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://arxiv.org/abs/2601.02769'
+citation: '[Rui Luo](https://www.cityu.edu.hk/stfprofile/RLuo.htm), [Zhixin Zhou](https://sites.google.com/view/zhixinzhou/home)'
+---
