@@ -21,7 +21,7 @@ redirect_from:
 </div>
 
 
-Curriculum Vitae : [CV](http://orince.github.io/Users/orince/Desktop/orince.github.io/assets/CV_Resume.pdf)
+Curriculum Vitae : [CV](../assets/CV_Resume.pdf)
 
 Education:
 PhD in Business Statistics, Department of Decision Analytics and Operations, City University of Hong Kong, 2026(Expected)
