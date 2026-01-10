@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Naixin GUO"
+title                    : "Naixin GUO (国乃心)"
 title_separator          : "-"
-name                     : &name "Naixin GUO"
+name                     : &name "Naixin GUO (国乃心)"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://orince.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://www.naixinguo.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "orince/orince.github.io"
+repository               : "www.naixinguo.com"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
