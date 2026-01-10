@@ -8,11 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-
 <div style="text-align: center;">
   <div style="position: relative; display: inline-block;">
-    < img src="/images/birdtree.jpg" alt="Profile Image" width="351" height="400" style="display: block;" />
+    < img src="../images/birdtree.jpg" alt="Profile Image" width="351" height="400" style="display: block;" />
   </div>
   <div style="text-align: right; font-style: italic; color: #d3d3d3; font-size: 14px; margin-top: 5px;">
     <!-- <br />
@@ -20,8 +18,7 @@ redirect_from:
   </div>
 </div>
 
-
-Curriculum Vitae : [CV](http://orince.github.io/Users/orince/Desktop/orince.github.io/assets/CV_Resume.pdf)
+Curriculum Vitae : [CV](../assets/CV_Resume.pdf)
 
 Education:
 PhD in Business Statistics, Department of Decision Analytics and Operations, City University of Hong Kong, 2026(Expected)
