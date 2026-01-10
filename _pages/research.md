@@ -9,7 +9,7 @@ author_profile: true
 {% for category in site.publication_category %}
 
 <section class="publication-category">
-  <h2>{{ category[1].title }}</h2>
+  <h2 style="font-size: 2em; font-weight: bold; margin-top: 1.5em; margin-bottom: 0.5em;">{{ category[1].title }}</h2>
   <hr />
   {% assign posts = site.research | where: "category", category[0] | sort: "date" | reverse %}
   {% for post in posts %}
